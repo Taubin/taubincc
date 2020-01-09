@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://taubin.cc/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.0" -->
-<!-- generated-on="January 9, 2020 10:29 pm" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://OFFLINEZIP.wpshowp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.0" -->
+<!-- generated-on="January 9, 2020 10:40 pm" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
-		<loc>https://taubin.cc/sitemap-misc.xml</loc>
+		<loc>http://OFFLINEZIP.wpshositemap-misc.xml</loc>
 		<lastmod>2020-01-09T22:10:43+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://taubin.cc/sitemap-pt-post-2020-01.xml</loc>
+		<loc>http://OFFLINEZIP.wpshositemap-pt-post-2020-01.xml</loc>
 		<lastmod>2020-01-09T22:10:43+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://taubin.cc/sitemap-pt-post-2019-12.xml</loc>
+		<loc>http://OFFLINEZIP.wpshositemap-pt-post-2019-12.xml</loc>
 		<lastmod>2019-12-30T00:37:51+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://taubin.cc/sitemap-pt-post-2019-06.xml</loc>
+		<loc>http://OFFLINEZIP.wpshositemap-pt-post-2019-06.xml</loc>
 		<lastmod>2019-12-29T21:55:45+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://taubin.cc/sitemap-pt-post-2019-04.xml</loc>
+		<loc>http://OFFLINEZIP.wpshositemap-pt-post-2019-04.xml</loc>
 		<lastmod>2019-12-29T21:50:03+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://taubin.cc/sitemap-pt-post-2019-01.xml</loc>
+		<loc>http://OFFLINEZIP.wpshositemap-pt-post-2019-01.xml</loc>
 		<lastmod>2019-12-29T21:49:28+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://taubin.cc/sitemap-pt-post-2018-12.xml</loc>
+		<loc>http://OFFLINEZIP.wpshositemap-pt-post-2018-12.xml</loc>
 		<lastmod>2019-12-29T21:25:50+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://taubin.cc/sitemap-pt-post-2018-04.xml</loc>
+		<loc>http://OFFLINEZIP.wpshositemap-pt-post-2018-04.xml</loc>
 		<lastmod>2019-12-29T21:48:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://taubin.cc/sitemap-pt-post-2017-03.xml</loc>
+		<loc>http://OFFLINEZIP.wpshositemap-pt-post-2017-03.xml</loc>
 		<lastmod>2019-12-29T21:48:12+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 5dd2d2300b3dff05284b21630c5cc7ff; Queries for sitemap: 5; Total queries: 17; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: 21dff2cd3fd45031347b99cdfb29fe5d; Queries for sitemap: 5; Total queries: 17; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
